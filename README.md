@@ -1,8 +1,3 @@
-### 👋 ¡Hola! Soy Juan Martin Ruiz
-
-Soy QA Automation Engineer y desarrollador, con experiencia en testing, automatización y desarrollo web. Apasionado por la tecnología, la mejora continua y la calidad de software.
-
----
 
 ## 🚀 Proyectos Destacados
 
