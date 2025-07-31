@@ -14,16 +14,3 @@
 | [astro-image-uploader](https://github.com/jmr85/astro-image-uploader)       | Sitio con Astro para subir y manejar imágenes en la nube.                                             | Astro, JavaScript  |
 | [farmacias-turnos-app](https://github.com/jmr85/farmacias-turnos-app)       | Web para turnos de farmacias en Argentina, con actualización automática.                             | ReactJS, Node.js   |
 
----
-
-## 📫 Contacto
-
-- Email: juan.martin.ruiz@gmail.com
-- Portfolio: [jmrui.dev](https://jmruiz.dev/)
-- Buenos Aires, Argentina
-
----
-
-> “La automatización es la clave para una calidad constante y un desarrollo eficiente.”
-
-¡Gracias por visitar mi perfil! ⭐
